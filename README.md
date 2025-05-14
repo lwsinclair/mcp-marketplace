@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cline-mcp-marketplace-badge.png)](https://mseep.ai/app/cline-mcp-marketplace)
+
 # MCP Marketplace
 
 Welcome to Cline's **MCP Marketplace** repository! Submit your MCP servers for others to easily discover and one-click install with Cline.
